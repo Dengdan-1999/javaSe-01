@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATMproject/ATMproject.iml" filepath="$PROJECT_DIR$/ATMproject/ATMproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyJavaSeProject.iml" filepath="$PROJECT_DIR$/MyJavaSeProject.iml" />
+    </modules>
+  </component>
+</project>
